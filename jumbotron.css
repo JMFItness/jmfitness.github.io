@@ -85,6 +85,8 @@ medium {
   position: relative;
   top: 50px;
   height: 300px;
+  /*color: #E0E0E0;*/
+  color: #A0A0A0;
 }
 
 .motivation {
