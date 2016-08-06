@@ -163,6 +163,8 @@ textarea {
   margin-bottom: 150px;
   line-height: 30px;
   letter-spacing: 2px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .expertise {
@@ -170,6 +172,8 @@ textarea {
   margin-bottom: 200px;
   line-height: 30px;
   letter-spacing: 2px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .expertise>p {
