@@ -10,6 +10,10 @@ body {
   background-color: black;
 }
 
+h1{
+  font-family: "condensed";
+}
+
 ul {
   color: white;
   /*display: inline-block;*/
@@ -22,12 +26,14 @@ li {
 }
 
 .navbar-inverse {
-  background: none;
+  /*background: none;*/
+  background: black;
 }
 
 .navbar {
   background-color: none;
   border: none;
+  font-family: "condensed";
 }
 
 .navbar-brand {
