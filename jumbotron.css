@@ -42,6 +42,7 @@ li {
   letter-spacing: 3px;
 }
 
+
 a {
   color: white;
 }
@@ -70,6 +71,13 @@ medium {
   color: white;
 }
 
+.main-wrapper {
+  background-image: url("static/images/jmhealthfitnessBkg.jpeg");
+  background-size: cover;
+  margin-bottom: 50px;
+  background-position: center;
+}
+
 .jumbotron {
   background: none;
   color: white;
@@ -86,7 +94,8 @@ medium {
   top: 50px;
   height: 300px;
   /*color: #E0E0E0;*/
-  color: #A0A0A0;
+  /*color: #A0A0A0;*/
+  color: white;
 }
 
 .motivation {
@@ -99,15 +108,6 @@ img {
   margin-bottom: 15px;
 }
 
-.happyHour {
-  width: 600px;
-  display: inline;
-}
-
-.AGexample {
-  display: inherit;
-  float: left;
-}
 
 .project > medium {
   padding-left: 20px;
@@ -120,11 +120,6 @@ img {
   display: inherit;
 }
 
-.project {
-  margin-top: 50px;
-  margin-bottom: 50px;
-
-}
 
 
 .title {
