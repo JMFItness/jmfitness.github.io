@@ -74,7 +74,7 @@ medium {
 .main-wrapper {
   background-image: url("static/images/jmhealthfitnessBkg.jpeg");
   background-size: cover;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
   background-position: center;
 }
 
@@ -152,34 +152,19 @@ textarea {
   color: black;
 }
 
-.about>p {
+.info>p {
   font-size: 30px;
   padding: 20px;
   letter-spacing: 5px;
 }
 
-.about {
+.info {
   color: white;
-  margin-bottom: 150px;
+  margin-bottom: 100px;
   line-height: 30px;
   letter-spacing: 2px;
   padding-left: 50px;
   padding-right: 50px;
-}
-
-.expertise {
-  color: white;
-  margin-bottom: 200px;
-  line-height: 30px;
-  letter-spacing: 2px;
-  padding-left: 50px;
-  padding-right: 50px;
-}
-
-.expertise>p {
-  font-size: 30px;
-  padding: 20px;
-  letter-spacing: 5px;
 }
 
 .footer-home {
