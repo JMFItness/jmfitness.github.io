@@ -49,10 +49,23 @@
           <a class="navbar-brand" href="#">JMHealthFitness</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
+
             <ul class="nav navbar-nav navbar-right">
               <li><a href="index.html">Home</a></li>
+              <li><div class="dropdown">
+                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownmenu" data-toggle="dropdown">
+                  Info
+                  <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu" aria-labelled-by="dropdownmenu">
+                  <li><a href="#about">About</a></li>
+                  <li><a href="#expertise">Expertise</a></li>
+                  <li><a href="#philosophy">Philosophy</a></li>
+                </ul>
+              </div></li>
               <li><a href="contact.html">Contact</a></li>
             </ul>
+
 
 
           <!-- <form class="navbar-form navbar-right">
@@ -116,7 +129,7 @@
       </div>
     </div>
   </div>
-      <div class="text-center about info">
+      <div class="text-center about info" id="about">
         <p class="title-about">ABOUT</p>
         <div class="about-content">
           <p>Certified NASM Trainer dedicated to making a positive change in other people’s lives. I am a firm believer that everyone has the ability to change and reach their personal goals with proper guidance and enough motivation for attendance.
@@ -126,14 +139,14 @@ In the past, I have made some positive changes in the lives of others. I have he
 The leading causes of discontinuing a workout plan is a result of an injury incorrect form during exercise. I emphasize proper exercise technique and safety in order to prevent potential injuries. </p>
         </div>
       </div>
-      <div class="text-center expertise info">
+      <div class="text-center expertise info" id="expertise">
         <p class="title-expertise">EXPERTISE</p>
         <div class="expertise-content">
           <p>Specialty training in Boxing, Muay Thai, Body Building and Full Body Conditioning in order to increase overall Strength-Endurance as well as Cardio-Endurance.</p>
         </div>
       </div>
-      <div class="text-center philosophy info">
-        <p class="title-expertise">PHILOSOPHY</p>
+      <div class="text-center philosophy info" id="philosophy">
+        <p class="title-philosophy">PHILOSOPHY</p>
         <div class="philosophy-content">
           <p>It’s not always what you know as a trainer and what type of workout you can provide. What matters the most is a trainer’s ability to adapt to others needs, in order to provide the best possible strategy for one to meet their personal goals.</p>
         </div>
@@ -142,7 +155,7 @@ The leading causes of discontinuing a workout plan is a result of an injury inco
       <!-- <hr> -->
 
       <footer class="footer-home">
-        <p>&copy; 2016 JMFitness.</p>
+        <p>&copy; 2016 JMHealthFitness.</p>
       </footer>
     </div> <!-- /container -->
 
