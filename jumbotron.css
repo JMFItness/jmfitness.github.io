@@ -57,7 +57,7 @@ li {
 
 
 a {
-  color: lightgray;
+  color: white;
 }
 
 h4 {
@@ -97,7 +97,7 @@ medium {
 
 .jumbotron {
   background: none;
-  color: lightgray;
+  color: white;
   position: relative;
   top: 75px;
 }
@@ -112,7 +112,7 @@ medium {
   height: 300px;
   /*color: #E0E0E0;*/
   /*color: #A0A0A0;*/
-  color: lightgray;
+  color: white;
 }
 
 .motivation {
