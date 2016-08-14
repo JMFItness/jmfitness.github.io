@@ -115,22 +115,10 @@ medium {
   color: white;
 }
 
-.motivation {
-  width: 600px;
-  display: inherit;
-}
 
 img {
   width: 600px;
   margin-bottom: 15px;
-}
-
-
-.project > medium {
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-top: 50px;
-  margin-bottom: 70px;
 }
 
 .col-lg-5 {
@@ -145,8 +133,8 @@ img {
 }
 
 footer {
-  position: absolute;
-  bottom: 0px;
+  /*position: absolute;
+  bottom: 0px;*/
   color: white;
 }
 
@@ -193,4 +181,9 @@ textarea {
 .footer-container {
   position: relative;
   top: 150px;
+}
+
+.sasstester {
+  color: blue;
+
 }
