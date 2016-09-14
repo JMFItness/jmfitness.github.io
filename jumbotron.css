@@ -67,6 +67,9 @@ h4 {
   padding: 10px;
 }
 
+.schedule-pic > img {
+  width: 100%;
+}
 video {
   /*opacity: .5;*/
   /*text-align: center;*/
@@ -91,7 +94,7 @@ medium {
 .main-wrapper {
   background-image: url("static/images/flr-equip-pic.png");
   background-size: cover;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
   background-position: center;
 }
 
@@ -173,11 +176,26 @@ textarea {
   padding-right: 50px;
 }
 
+.bag-gif {
+  width: 100%;
+  height: 500px;
+}
+
+.bag-gif > img {
+  width: 100%;
+  height: 500px;
+}
+
+.training-cont {
+  margin-top: -125px;
+}
+
 .training>p {
   font-size: 30px;
   padding: 20px;
   letter-spacing: 5px;
 }
+
 .training {
   color: white;
   margin-bottom: 100px;
