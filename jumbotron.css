@@ -198,16 +198,24 @@ textarea {
 
 .training {
   color: white;
-  margin-bottom: 100px;
+  /*margin-bottom: 100px;*/
   line-height: 30px;
   letter-spacing: 2px;
-  padding-top: 50px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+}
+
+#functional {
+  background-image: url("static/images/weights-dark.png");
+  /*background: rgba(0, 0, 0, 0.75);*/
+  background-size: cover;
 }
 
 .weights-flr {
   width: 100%;
+  opacity: .2;
 }
 
 .weights-flr > img {
