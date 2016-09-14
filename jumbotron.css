@@ -206,6 +206,14 @@ textarea {
   padding-right: 50px;
 }
 
+.weights-flr {
+  width: 100%;
+}
+
+.weights-flr > img {
+  width: 100%;
+}
+
 .content>p{
   font-size: 14px;
 }
