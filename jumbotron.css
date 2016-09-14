@@ -208,7 +208,7 @@ textarea {
 }
 
 #functional {
-  background-image: url("static/images/weights-dark.png");
+  /*background-image: url("static/images/weights-dark.png");*/
   /*background: rgba(0, 0, 0, 0.75);*/
   background-size: cover;
 }
