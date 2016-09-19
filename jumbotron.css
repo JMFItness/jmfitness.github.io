@@ -60,6 +60,33 @@ a {
   color: white;
 }
 
+.sticker {
+  background: #202020;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 2px solid #00FF00;
+  position: absolute;
+  top: 385px;
+  right: 10px;
+  text-align: center;
+  vertical-align: center;
+  transform: rotate(20deg);
+}
+
+@media (max-width: 700px){
+  .sticker {
+    top: 490px;
+  }
+}
+
+.sticker > p {
+  position: relative;
+  top: 20px;
+  width: 80%;
+  left: 10%;
+}
+
 h4 {
   position: relative;
   top: 20px;
