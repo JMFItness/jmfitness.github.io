@@ -65,7 +65,7 @@ a {
   height: 190px;
   width: 190px;
   border-radius: 50%;
-  border: 2px solid #00FF00;
+  border: 2px solid red;
   position: absolute;
   top: 385px;
   right: 10px;
@@ -94,8 +94,14 @@ h4 {
   padding: 10px;
 }
 
-.schedule-pic > img {
+.schedule-pic {
   width: 100%;
+
+}
+
+.schedule-pic > img {
+  width: 45%;
+  margin-left: 2.5%;
 }
 video {
   /*opacity: .5;*/
