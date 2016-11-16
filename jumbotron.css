@@ -72,16 +72,17 @@ h4 {
 }
 
 .schedule-pic > img {
-  width: 45%;
+  width: 100%;
   margin-left: 2.5%;
 }
 
 .schedule {
   color: white;
-  width: 49%;
+  width: 100%;
   float: right;
   text-align: center;
   font-family: "lato";
+  padding-bottom: 75px;
 }
 
 .schedule > h1, h2 {
