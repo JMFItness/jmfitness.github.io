@@ -290,3 +290,14 @@ textarea {
   color: blue;
 
 }
+
+/*Schedule page*/
+
+.class-disc {
+  color: white;
+  width: 90%;
+  margin-left: 5%;
+  font-family: "Lato";
+  line-height: 30px;
+  letter-spacing: 2px;
+}
