@@ -222,6 +222,10 @@ textarea {
   padding-right: 50px;
 }
 
+.about-content {
+  font-size: 20px
+}
+
 .class-pic {
   width: 100%;
 }
