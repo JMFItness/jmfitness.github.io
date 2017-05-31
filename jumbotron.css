@@ -137,6 +137,13 @@ h4 {
   bottom: 80px;
 }
 
+@media(max-width: 990px){
+  #youtube-channel {
+    position: relative;
+    bottom: 0px;
+  }
+}
+
 video {
   /*opacity: .5;*/
   /*text-align: center;*/
