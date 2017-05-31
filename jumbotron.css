@@ -114,6 +114,29 @@ h4 {
   }
 }
 
+#youtube-channel {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  bottom: 80px;
+}
+
+#youtube-channel:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+  font-size: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  bottom: 80px;
+}
+
 video {
   /*opacity: .5;*/
   /*text-align: center;*/
